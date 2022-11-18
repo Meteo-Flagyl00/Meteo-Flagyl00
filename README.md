@@ -41,7 +41,7 @@
 <div>
   <h3> :fire: My stats:</h3>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Meteo-Flagyl00&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mohammed-KB00&theme=dark&background=000000)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meteo-Flagyl00)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-KB00)](https://github.com/anuraghazra/github-readme-stats)
 </div>
